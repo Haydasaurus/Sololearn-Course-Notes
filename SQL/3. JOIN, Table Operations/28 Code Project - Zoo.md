@@ -3,11 +3,11 @@ You manage a zoo. Each animal in the zoo comes from a different country. Here ar
 
 **Animals**
 
-![[x8hrzx2u.bmp]]
+![x8hrzx2u](https://user-images.githubusercontent.com/94882786/165198311-5722d0bf-792f-4457-b54a-22804199c705.jpg)
 
 **Countries**
 
-![[d74pjtd4.bmp]]
+![d74pjtd4](https://user-images.githubusercontent.com/94882786/165198319-f23c17b8-17c6-4e68-b4e6-fe4f50181ae2.jpg)
 
 1) A new animal has come in, with the following details:  
 name - "Slim", type - "Giraffe", country_id - 1  
